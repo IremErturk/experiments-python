@@ -1,0 +1,10 @@
+azure-storage-blob==12.9.0
+pydantic
+PyYAML~=5.4.1
+click==8.0.3
+pylint==2.12.2
+graphviz==0.19.1
+pydot==1.4.2
+pyspark==3.2.1
+
+
