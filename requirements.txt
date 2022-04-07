@@ -7,4 +7,6 @@ graphviz==0.19.1
 pydot==1.4.2
 pyspark==3.2.1
 
+jupyter
+
 
